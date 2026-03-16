@@ -132,16 +132,16 @@ This file can be used with the VS Code REST Client extension.
 
 ## Project Structure
 
-.
-├── package-lock.json
-├── package.json
-├── README.md
-├── rest.http
-└── src
-    ├── logger.js
-    ├── main.js
-    ├── counter.js
-    └── routes.js
+.\
+├── package-lock.json\
+├── package.json\
+├── README.md\
+├── rest.http\
+└── src\
+&emsp;&emsp;├── logger.js\
+&emsp;&emsp;├── main.js\
+&emsp;&emsp;├── counter.js\
+&emsp;&emsp;└── routes.js\
 
 ## .gitignore
 
